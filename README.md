@@ -1,4 +1,4 @@
-# YipiData
+# YipitData
 
 This project involves building a data pipeline using Apache Airflow to extract, transform, and load data on Oscar-nominated movies from 1927 to 2014. 
 
